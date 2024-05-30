@@ -1,0 +1,9 @@
+<resources>
+    <style name="CustomButtonStyle" parent="Widget.MaterialComponents.Button">
+        <item name="android:background">@drawable/button_background</item>
+        <item name="android:textColor">#FBA92D</item>
+        <item name="iconTint">#FBA92D</item>
+        <item name="rippleColor">#FFFFFF</item>
+        <item name="strokeColor">#FBA92D</item>
+    </style>
+</resources>

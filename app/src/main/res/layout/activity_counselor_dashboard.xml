@@ -44,7 +44,7 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_columnWeight="1"
-            android:src="@drawable/ic_anonymous_chat_button"
+            android:src="@drawable/whatsapp_image_2024_05_30_at_21_27_00__1_"
             android:background="@android:color/white"
             android:scaleType="centerInside"
             android:adjustViewBounds="true"
@@ -52,18 +52,7 @@
             android:layout_margin="8dp"
             android:contentDescription="anonymous_chat" />
 
-        <ImageButton
-            android:id="@+id/resource_button"
-            android:layout_width="0dp"
-            android:layout_height="wrap_content"
-            android:layout_columnWeight="1"
-            android:src="@drawable/ic_resource"
-            android:background="@android:color/white"
-            android:scaleType="centerInside"
-            android:adjustViewBounds="true"
-            android:padding="16dp"
-            android:layout_margin="8dp"
-            android:contentDescription="Resource" />
+
 
         <ImageButton
             android:id="@+id/profile_button"
@@ -79,17 +68,17 @@
             android:contentDescription="profile" />
 
         <ImageButton
-            android:id="@+id/settings_button"
+            android:id="@+id/moodtracker_button"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_columnWeight="1"
-            android:src="@drawable/ic_settings"
+            android:src="@drawable/whatsapp_image_2024_05_30_at_21_26_59__2_"
             android:background="@android:color/white"
             android:scaleType="centerInside"
             android:adjustViewBounds="true"
             android:padding="16dp"
             android:layout_margin="8dp"
-            android:contentDescription="settings" />
+            android:contentDescription="moodtracker" />
 
     </GridLayout>
 
